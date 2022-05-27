@@ -1,0 +1,18 @@
+body{
+    background-color: grey;
+}
+
+
+.containerPrincipal {
+    background-color: white;
+    left: 50%;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+}
+
+.containerSecundario{
+    text-align: center;
+}
